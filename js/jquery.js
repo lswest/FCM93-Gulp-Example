@@ -1,0 +1,1 @@
+function offCanvas(){$("#off-canvas").toggleClass("in-view")}$(function(){$(".browsehappy").click(function(){$(this).slideUp()})});

@@ -1,0 +1,1 @@
+jQuery().fancybox&&$(".fancybox, div.imageholder a").fancybox({});try{console.assert(1)}catch(e){console={log:function(){},assert:function(){}}}$(document).ready(function(){$(".fa-close").click(function(){$("nav#main-menu").slideToggle()})});
